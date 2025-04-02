@@ -1,0 +1,14 @@
+We are creating a mod for Hearts of Iron IV (aka HOI IV or HOI 4), a mod that adds content to the releasable nation of Sapmi. We aim at adding a focus tree, events, leaders, political and military characters, and national ideas. Possibly more. Lets also remember that HOI IV starts on the first of January 1936. The default Sapmi nation in HOI IV is very very shallow, we want it to feel like any other nation. 
+
+In the game Sapmi has cores on the following states:
+Lappi in Finland
+Petsamo in Finland
+Finnmark in Norway
+Helgeland in Norway
+Nordland in Norway
+Troms in Norway
+Trøndelag in Norway
+Murmansk in the Soviet Union
+Jämtland in Sweden
+Norrbotten in Sweden
+Västerbotten in Sweden
